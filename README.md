@@ -12,6 +12,6 @@ https://public.tableau.com/shared/YTHX7W934?:display_count=n&:origin=viz_share_l
 - A data summary tab, which includes two visualizations learned in the module summarizing Gender and Usertype, as well as an overview of Trips by Weekday per Hour
 - A details by gender tab, which includes a summary of the trips taken by gender by weekday, and further enhanced to see by hour the most popular biking times
 - A summary of checkout times for total users and additionally sorted by gender with the y axis representing number of bixes, and the x axis minutes
-- A highlevel summary of total rides indicated by start and end locations - which could be used for future analysis
+- A highlevel summary of total rides indicated by start and end locations - which could also be used for future analysis
 
 
